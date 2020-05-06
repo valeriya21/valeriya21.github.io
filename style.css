@@ -1,0 +1,21 @@
+* {
+    font-family: 'Press Start 2P', cursive;
+  }
+
+.auth {
+    width: 300px;
+    margin: 0 auto;
+}
+
+
+#login-button {
+    width: 12em;
+    height: em;
+    margin-top: 3%;
+    border: 2px solid #4caf50;
+    background: #4caf50;
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    padding-top: 1%;
+}
